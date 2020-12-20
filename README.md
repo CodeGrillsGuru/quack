@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="http://entynetproject.simplesite.com/">
-    <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
+    <img src="https://img.shields.io/badge/entynetproject-Guru Grover-blue.svg">
   </a>
   <a href="https://github.com/entynetproject/quack/releases">
     <img src="https://img.shields.io/github/release/entynetproject/quack.svg">
