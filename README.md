@@ -18,9 +18,7 @@
   <a href="https://github.com/entynetproject/quack/wiki">
       <img src="https://img.shields.io/badge/wiki%20-quack-lightgrey.svg">
  </a>
-  <a href="https://twitter.com/entynetproject">
-    <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
- </a>
+ 
 </p>
 
 ***
